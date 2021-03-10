@@ -1,0 +1,13 @@
+.para{
+        font-size:30px;
+        font-weight:bold;
+        text-align:center;
+}
+.box{
+    border-radius:40%;
+    font-size:20px;
+        outline:none;
+}
+.btn{
+    margin-left:40%;
+}
